@@ -1,0 +1,6 @@
+name: LeafDecay
+version: '${project.version}'
+main: at.haha007.leafdecay.LeafDecay
+api-version: 1.18
+authors: [ Haha007 ]
+description: Let Leaves Decay Instantanious
